@@ -1,0 +1,17 @@
+{
+  "name": "tc-angular-chartjs",
+  "description": "AngularJS directives for Chart.js",
+  "main": "dist/tc-angular-chartjs.min.js",
+  "authors": [
+    "Carl Craig <carlcraig.threeceestudios@gmail.com>"
+  ],
+  "license": "(MIT OR Apache-2.0)",
+  "homepage": "http://carlcraig.github.io/tc-angular-chartjs/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

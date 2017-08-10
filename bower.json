@@ -1,7 +1,7 @@
 {
   "name": "tc-angular-chartjs",
   "description": "AngularJS directives for Chart.js",
-  "main": "dist/tc-angular-chartjs.min.js",
+  "main": "dist/tc-angular-chartjs.js",
   "authors": [
     "Carl Craig <carlcraig.threeceestudios@gmail.com>"
   ],
